@@ -1,0 +1,24 @@
+div{
+    color: purple;
+}
+
+/* . Class Selector */
+.alert-text{    
+    color: red;
+}
+
+/* # Id selector */
+#title{
+    background-color: red;
+
+}
+
+/* Chaining Selectors with class */
+.subsection.header{
+    color:red;
+}
+
+/* Chaining selector with id*/
+.subsection#preview{
+    color:blue;
+}
