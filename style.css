@@ -22,3 +22,11 @@ div{
 .subsection#preview{
     color:blue;
 }
+
+.ancestor .contents{
+    background-color: pink;
+}
+
+p{
+    color: orange;
+}
